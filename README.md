@@ -1,6 +1,6 @@
 ## Hi I'm Jose 
 
-Product Manager & Product Builder. 
+**Product Manager & Product Builder. 
 
 
 ### 🛠️ What I use
@@ -17,3 +17,5 @@ Product Manager & Product Builder.
 
 
 📫 joseluis-gonzalez-@outlook.com
+
+_"When not pushing, I'm hiking 🏔️"_
