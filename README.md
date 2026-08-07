@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi I'm Jose 
 
-<!--
-**MesieJose/MesieJose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Product Manager & Product Builder. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 🛠️ What I use
+
+- **Backend & Data:** Python, FastAPI, SQL
+- **AI & Automation:** LangGraph, n8n
+
+
+
+### 💡 What I build
+
+- Product tools, mini-apps, and workflow automations.
+- AI-driven internal logic & system design.
+
+---
+
+📫 
 -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MesieJose&show_icons=true&theme=radial)
