@@ -1,6 +1,6 @@
 ## Hi I'm Jose 
 
-**Product Manager & Product Builder. 
+**Product Manager & Product Builder** 
 
 
 ### 🛠️ What I use
