@@ -21,8 +21,3 @@
 
 
   
-📫 joseluis-gonzalez-@outlook.com
-
-
-
-_"When not pushing, I'm hiking 🏔️"_
