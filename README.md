@@ -6,11 +6,10 @@ I build product tools, AI-powered workflows, and prototypes that turn ideas into
 
 ### 🚀 What I build
 
-- MVPs and end-to-end products
+- Prototypes and end-to-end products
 - Internal tools and workflows
 - AI-powered product experiences
 - APIs, backend logic, and data flows
-- Rapid prototypes and MVPs
 
 ### 🛠️ Tools I use
 Python, FastAPI, SQL, LangGraph, REST APIs, Webhooks, PostgreSQL, Railway, PostHog, n8n
