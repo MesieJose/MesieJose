@@ -2,22 +2,17 @@
 
 **Product Manager & Product Builder** 
 
+I build product tools, AI-powered workflows, and prototypes that turn ideas into working solutions.
 
-### 🛠️ What I use
-
-- **Backend & Data:** Python, FastAPI, SQL
-- **AI & Automation:** LangGraph, n8n
-
+### 🛠️ Tools I use
+Python · FastAPI · SQL · LangGraph · n8n 
 
 ### 🚀 What I build
+- Internal tools and product workflows
+- AI-powered product experiences
+- Rapid prototypes and MVPs
 
-- Product tools, mini-apps, and workflow automations.
-- AI-driven internal logic & system design.
-
-### 🧠 How I think
-
-- Design thinking
-- Empathy first
-
+### 🧠 How I work
+User problem/need → Outcome → Prototype → Test → Learn → Iterate
 
   
