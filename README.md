@@ -4,15 +4,18 @@
 
 I build product tools, AI-powered workflows, and prototypes that turn ideas into working solutions.
 
-### 🛠️ Tools I use
-Python · FastAPI · SQL · LangGraph · n8n 
-
 ### 🚀 What I build
-- Internal tools and product workflows
+
+- MVPs and end-to-end products
+- Internal tools and workflows
 - AI-powered product experiences
+- APIs, backend logic, and data flows
 - Rapid prototypes and MVPs
 
+### 🛠️ Tools I use
+Python, FastAPI, SQL, LangGraph, REST APIs, Webhooks, PostgreSQL, Railway, PostHog, n8n
+
 ### 🧠 How I work
-User problem/need → Outcome → Prototype → Test → Learn → Iterate
+User problem/need → Outcome → Prototype → Test → Measure/Learn → Iterate
 
   
